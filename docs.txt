@@ -1,0 +1,5 @@
+My name is Marryum Ayub.
+I am learning about Retrieval-Argumented Generation (RAG).
+RAG works by combining a knowledge base with a large language model.
+A vector database like FAISS is used to store embeddings of documents.
+The chatbot retrieves relevant chunks from the knowledge base and answers user queries.

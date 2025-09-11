@@ -1,1 +1,2 @@
 # AAIDC_Project-1--RAG-based-Chatbot
+GROQ_API_KEY=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
